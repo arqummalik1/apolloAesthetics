@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+:root {
+  --shell-50: #f7f2ec;
+  --shell-100: #efe5d8;
+  --shell-200: #e2d3c0;
+  --navy-400: #5674a2;
+  --navy-500: #355076;
+  --navy-600: #233a5a;
+  --navy-700: #17273f;
+  --gold-400: #e6c782;
+  --gold-500: #d6b880;
+  --ink-900: #1b2434;
+  --ink-700: #495160;
+  --ink-600: #5d6472;
+  --border-soft: rgba(64, 80, 102, 0.12);
+  --border-strong: rgba(42, 60, 89, 0.2);
+  --font-display: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  --font-body: "Avenir Next", "Segoe UI", "Helvetica Neue", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top right, rgba(255, 224, 162, 0.34), transparent 28%),
+    linear-gradient(180deg, #f8f3ec 0%, #f3ede6 54%, #efe6dc 100%);
+  color: var(--ink-900);
+  font-family: var(--font-body);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+@layer components {
+  .page-shell {
+    @apply mx-auto max-w-7xl px-3 pb-36 pt-3 sm:px-6 sm:pb-32 sm:pt-6 lg:px-8;
+  }
+
+  .panel {
+    @apply rounded-[1.6rem] border bg-white/72 p-4 shadow-[0_22px_48px_rgba(31,39,60,0.08)] backdrop-blur sm:rounded-[2rem] sm:p-6;
+    border-color: var(--border-soft);
+  }
+
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-[0.22em] sm:text-sm sm:tracking-[0.28em];
+    color: var(--navy-500);
+  }
+}

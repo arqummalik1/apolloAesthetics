@@ -1,0 +1,205 @@
+- main [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - paragraph [ref=e7]: Apollo Aesthetics
+        - paragraph [ref=e8]: Dermato Care Kojic Acid 2%
+      - generic [ref=e9]:
+        - link "Gallery" [ref=e10] [cursor=pointer]:
+          - /url: "#gallery"
+        - link "Checkout" [ref=e11] [cursor=pointer]:
+          - /url: "#checkout-flow"
+        - button "Cart" [ref=e12]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - text: Apollo Aesthetics
+          - text: Dermato Care
+        - generic [ref=e19]:
+          - paragraph [ref=e20]: Kojic Acid 2% Face Serum
+          - heading "Clinical clarity, elevated into a premium single-product storefront." [level=1] [ref=e21]
+          - paragraph [ref=e22]: A focused serum presentation for dark spot and pigmentation care, showcased in a premium amber dropper bottle.
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - paragraph [ref=e25]: MRP
+            - paragraph [ref=e26]: ₹1,199
+          - generic [ref=e27]:
+            - paragraph [ref=e28]: Format
+            - paragraph [ref=e29]: Face Serum
+          - generic [ref=e30]:
+            - paragraph [ref=e31]: Bottle
+            - paragraph [ref=e32]: 30ml / 1.01 fl. oz.
+        - generic [ref=e33]:
+          - button "Buy Now" [ref=e34]
+          - button "View Cart" [ref=e35]
+          - link "Explore Angles" [ref=e36] [cursor=pointer]:
+            - /url: "#gallery"
+        - generic [ref=e37]:
+          - generic [ref=e38]: Dermatologically recommended
+          - generic [ref=e39]: Cosmetologist recommended
+          - generic [ref=e40]: 30ml amber dropper bottle
+          - generic [ref=e41]: Smooth frontend demo checkout
+      - generic [ref=e42]:
+        - img "Front-facing premium Apollo Aesthetics serum presentation" [ref=e47]
+        - generic [ref=e48]:
+          - img "Premium editorial dropper detail mockup for Dermato Care Kojic Acid 2% Face Serum." [ref=e51]
+          - generic [ref=e52]:
+            - generic [ref=e53]:
+              - generic [ref=e54]: Featured Mockup
+              - generic [ref=e55]: Ready To Swap
+            - img "Front-facing premium showcase mockup for Dermato Care Kojic Acid 2% Face Serum." [ref=e57]
+    - generic [ref=e58]:
+      - article [ref=e59]:
+        - paragraph [ref=e60]: Why It Works
+        - heading "Premium Medical Finish" [level=3] [ref=e61]
+        - paragraph [ref=e62]: Amber glass, gold detailing, and a clean white label create a refined clinical-luxe skincare presentation.
+      - article [ref=e63]:
+        - paragraph [ref=e64]: Why It Works
+        - heading "Easy Image Swaps" [level=3] [ref=e65]
+        - paragraph [ref=e66]: All site visuals now come from one public product-media folder so replacing assets later stays straightforward.
+      - article [ref=e67]:
+        - paragraph [ref=e68]: Why It Works
+        - heading "Checkout Ready" [level=3] [ref=e69]
+        - paragraph [ref=e70]: Visitors can move from landing page to cart, address entry, demo payment, and confirmation without leaving the funnel.
+      - article [ref=e71]:
+        - paragraph [ref=e72]: Why It Works
+        - heading "Future Backend Friendly" [level=3] [ref=e73]
+        - paragraph [ref=e74]: State, contracts, and route boundaries are prepared for future Supabase auth and order storage.
+    - generic [ref=e75]:
+      - generic [ref=e76]:
+        - paragraph [ref=e77]: Product Ritual
+        - heading "One polished serum page, built to move visitors straight to checkout." [level=2] [ref=e78]
+        - paragraph [ref=e79]: Apollo Aesthetics presents Dermato Care Kojic Acid 2% Face Serum in a clean clinical-luxe shopping experience built around conservative, label-aligned product storytelling.
+      - generic [ref=e80]:
+        - generic [ref=e81]:
+          - paragraph [ref=e82]: How To Use
+          - list [ref=e83]:
+            - listitem [ref=e84]: Apply 3 to 5 drops to the face and neck.
+            - listitem [ref=e85]: Massage gently in upward circular motions.
+            - listitem [ref=e86]: Use as part of a simple serum step before moisturizer.
+        - generic [ref=e87]:
+          - paragraph [ref=e88]: Conservative Notes
+          - list [ref=e89]:
+            - listitem [ref=e90]: External use only.
+            - listitem [ref=e91]: Avoid direct contact with the eyes.
+            - listitem [ref=e92]: Store in a cool place away from direct sunlight.
+    - generic [ref=e93]:
+      - article [ref=e94]:
+        - img "Front-facing premium showcase mockup for Dermato Care Kojic Acid 2% Face Serum." [ref=e96]
+        - generic [ref=e97]:
+          - paragraph [ref=e98]: Front showcase
+          - paragraph [ref=e99]: Refined front label presentation
+      - article [ref=e100]:
+        - img "Premium editorial dropper detail mockup for Dermato Care Kojic Acid 2% Face Serum." [ref=e102]
+        - generic [ref=e103]:
+          - paragraph [ref=e104]: Dropper editorial
+          - paragraph [ref=e105]: Gold cap and bottle detail
+      - article [ref=e106]:
+        - img "Back-label premium showcase mockup for Dermato Care Kojic Acid 2% Face Serum." [ref=e108]
+        - generic [ref=e109]:
+          - paragraph [ref=e110]: Back showcase
+          - paragraph [ref=e111]: Back panel and packaging detail
+    - generic [ref=e112]:
+      - generic [ref=e113]:
+        - img "Premium editorial campaign mockup for Dermato Care Kojic Acid 2% Face Serum." [ref=e117]
+        - generic [ref=e118]:
+          - button "Premium editorial campaign mockup for Dermato Care Kojic Acid 2% Face Serum. Hero campaign" [pressed] [ref=e119]:
+            - img "Premium editorial campaign mockup for Dermato Care Kojic Acid 2% Face Serum." [ref=e121]
+            - paragraph [ref=e122]: Hero campaign
+          - button "Front-facing premium showcase mockup for Dermato Care Kojic Acid 2% Face Serum. Front showcase" [ref=e123]:
+            - img "Front-facing premium showcase mockup for Dermato Care Kojic Acid 2% Face Serum." [ref=e125]
+            - paragraph [ref=e126]: Front showcase
+          - button "Back-label premium showcase mockup for Dermato Care Kojic Acid 2% Face Serum. Back showcase" [ref=e127]:
+            - img "Back-label premium showcase mockup for Dermato Care Kojic Acid 2% Face Serum." [ref=e129]
+            - paragraph [ref=e130]: Back showcase
+          - button "Premium editorial dropper detail mockup for Dermato Care Kojic Acid 2% Face Serum. Dropper editorial" [ref=e131]:
+            - img "Premium editorial dropper detail mockup for Dermato Care Kojic Acid 2% Face Serum." [ref=e133]
+            - paragraph [ref=e134]: Dropper editorial
+          - button "Original front bottle reference photo for Dermato Care Kojic Acid 2% Face Serum. Source front" [ref=e135]:
+            - img "Original front bottle reference photo for Dermato Care Kojic Acid 2% Face Serum." [ref=e137]
+            - paragraph [ref=e138]: Source front
+          - button "Original back bottle reference photo for Dermato Care Kojic Acid 2% Face Serum. Source back" [ref=e139]:
+            - img "Original back bottle reference photo for Dermato Care Kojic Acid 2% Face Serum." [ref=e141]
+            - paragraph [ref=e142]: Source back
+      - generic [ref=e143]:
+        - generic [ref=e144]:
+          - paragraph [ref=e145]: Gallery Notes
+          - heading "Different angles, one focused product story." [level=2] [ref=e146]
+        - generic [ref=e147]:
+          - generic [ref=e148]:
+            - paragraph [ref=e149]: Active View
+            - paragraph [ref=e150]: Hero campaign
+            - paragraph [ref=e151]: Premium marketing composition
+          - generic [ref=e152]:
+            - generic [ref=e153]:
+              - paragraph [ref=e154]: Material Palette
+              - paragraph [ref=e155]: Amber bottle, gold cap, white label, deep navy type.
+            - generic [ref=e156]:
+              - paragraph [ref=e157]: Showcase Goal
+              - paragraph [ref=e158]: Deliver enough product perspective to support a full single-page selling experience.
+    - generic [ref=e159]:
+      - generic [ref=e160]:
+        - paragraph [ref=e161]: Ingredients Snapshot
+        - heading "Listed ingredients highlighted on the bottle." [level=2] [ref=e162]
+        - paragraph [ref=e163]: The storefront keeps copy close to the visible packaging and avoids stronger unverified skincare claims.
+        - generic [ref=e164]:
+          - generic [ref=e165]: Kojic Acid
+          - generic [ref=e166]: Alpha Arbutin
+          - generic [ref=e167]: Niacinamide
+          - generic [ref=e168]: Glycerin
+      - generic [ref=e169]:
+        - paragraph [ref=e170]: Checkout Flow
+        - heading "From ad-style landing page to demo order confirmation." [level=2] [ref=e171]
+        - generic [ref=e172]:
+          - generic [ref=e173]:
+            - paragraph [ref=e174]: "01"
+            - heading "Landing" [level=3] [ref=e175]
+            - paragraph [ref=e176]: Visitors see the product, its angles, use guidance, and a sticky purchase call to action.
+          - generic [ref=e177]:
+            - paragraph [ref=e178]: "02"
+            - heading "Address" [level=3] [ref=e179]
+            - paragraph [ref=e180]: The cart and checkout capture quantity plus address details while persisting locally.
+          - generic [ref=e181]:
+            - paragraph [ref=e182]: "03"
+            - heading "Confirmation" [level=3] [ref=e183]
+            - paragraph [ref=e184]: A demo payment selector completes the order and lands on a success receipt page.
+    - generic [ref=e185]:
+      - paragraph [ref=e186]: FAQ
+      - generic [ref=e187]:
+        - article [ref=e188]:
+          - heading "Is this a real payment flow?" [level=3] [ref=e189]
+          - paragraph [ref=e190]: This version is frontend only. The payment step is a demo simulator so the user journey can be tested before a live gateway is added.
+        - article [ref=e191]:
+          - heading "Can login be added later?" [level=3] [ref=e192]
+          - paragraph [ref=e193]: Yes. The project is structured so Supabase username or password and Google login can be layered in later without rebuilding the storefront UI.
+        - article [ref=e194]:
+          - heading "How should the serum be used?" [level=3] [ref=e195]
+          - paragraph [ref=e196]: The bottle instructions indicate applying 3 to 5 drops to the face and neck and massaging gently in upward circular motions.
+        - article [ref=e197]:
+          - heading "What happens after payment in this version?" [level=3] [ref=e198]
+          - paragraph [ref=e199]: A mock confirmation page is shown with the captured shipping details, selected demo payment option, and a generated order reference.
+  - generic [ref=e201]:
+    - generic [ref=e202]:
+      - paragraph [ref=e203]: Ready to order
+      - paragraph [ref=e204]: Kojic Acid 2% Face Serum
+    - generic [ref=e205]:
+      - paragraph [ref=e206]: "Cart total: ₹0"
+      - button "Buy Now" [ref=e207]
+  - dialog "Shopping cart" [ref=e208]:
+    - generic [ref=e209]:
+      - generic [ref=e210]:
+        - paragraph [ref=e211]: Cart
+        - heading "Your Serum Order" [level=2] [ref=e212]
+      - button "Close" [ref=e213]
+    - generic [ref=e215]:
+      - paragraph [ref=e216]: Your cart is empty
+      - paragraph [ref=e217]: Add the featured serum to start the Apollo Aesthetics demo checkout flow.
+    - generic [ref=e218]:
+      - generic [ref=e219]:
+        - generic [ref=e220]: Items
+        - generic [ref=e221]: "0"
+      - generic [ref=e222]:
+        - generic [ref=e223]: Total
+        - generic [ref=e224]: ₹0
+      - link "Continue to Checkout":
+        - /url: /checkout
